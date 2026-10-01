@@ -224,4 +224,4 @@ Kindle Kids’ Book Creator is offered as a full free version, with all features
 Start your creative journey today! Download Kindle Kids’ Book Creator for free and bring your children's stories to life!
 
 ---
-**Last updated:** 2026-09-30 22:42:41 UTC
+**Last updated:** 2026-10-01 01:40:28 UTC
